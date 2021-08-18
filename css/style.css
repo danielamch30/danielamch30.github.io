@@ -1,0 +1,84 @@
+.centrar{
+    text-align: center;
+}
+.titulo{
+    font-size: 20px;
+    font-family: cursive;
+    color: #37988d;
+}
+header{
+    border-top-style: inset;
+}
+.imgpostre1{
+    width: 20%;
+}
+.imgensalada1{
+    width: 25%;
+}
+.imgarroz1{
+    width: 33%;
+}
+.imgpancakes1{
+    width: 33%;
+}
+.imgpan1{
+    width: 33%;
+}
+.imgsopa1{
+    width: 33%;
+}
+.subtitulopostre1{
+    font-size: 25px;
+    font-family: cursive;
+    color: coral;
+}
+.subtituloensalada1{
+    font-size: 23px;
+    font-family: cursive;
+    color: coral;
+}
+.subtituloarroz1{
+    font-size: 25px;
+    font-family: cursive;
+    color: coral;
+}
+.subtitulopanqueques1{
+    font-size: 20px;
+    font-family: cursive;
+    color: coral;
+}
+.subtitulopan1{
+    font-size: 20%;
+    font-family: cursive;
+    color: coral;
+}
+.subtitulosopa1{
+    font-size: 25px;
+    font-family: cursive;
+    color: coral;
+}
+.redessociales{
+    font-size: 20px;
+    font-family: cursive;
+    color: crimson;
+}
+.redesfacebook{
+    font-size: 15px;
+    font-family: monospace;
+    color: darkcyan;
+}
+.redestwitter{
+    font-size: 15px;
+    font-family: monospace;
+    color: darkcyan;
+}
+.redesinstagram{
+    font-size: 15px;
+    font-family: monospace;
+    color: darkcyan;
+}
+.redesyoutube{
+    font-size: 15px;
+    font-family: monospace;
+    color: darkcyan;
+}
